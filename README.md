@@ -5,7 +5,7 @@ I'm very new to gardening. But, one doesn't have to be a musician to appreaciate
 
 
 ### My favorites
-![Image](IMG_4929 2.jpg)
+![Image](IMG_4929 2.jpg) 
 
 Personally, flowers get to much credit. They are pretty, but they always overshadow the leaves of plants which can be so unexpectedly cool. For example, eucalyptus leaves are small dainty and cute while the purple velvet plant is bright and fun. 
 
