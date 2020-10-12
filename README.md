@@ -1,10 +1,12 @@
 ## Gardening Journal
 
-I'm very new to gardening. But, one doesn't have to be a musician to appreaciate music. My interest was sparked by [The Frustrated Gardener,](https://frustratedgardener.com/) specifically his garden diaries. You can use the [editor on GitHub](https://github.com/dan1elav/Florapedia/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm very new to gardening. But, one doesn't have to be a musician to appreaciate music. My interest was sparked by [The Frustrated Gardener,](https://frustratedgardener.com/) specifically his garden diaries. Now, I am determined to build up my knowledge on plants to have a garden of my own. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### My favorites
+![Image](
+Personally, flowers get to much credit. They are pretty, but they always overshadow the leaves of plants which can be so unexpectedly cool. For example, eucalyptus leaves are small dainty and cute while the purple velvet plant is bright and fun.  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
