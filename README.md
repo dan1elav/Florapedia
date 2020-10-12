@@ -1,6 +1,6 @@
 ## Gardening Journal
 
-You can use the [editor on GitHub](https://github.com/dan1elav/Florapedia/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm very new to gardening. But, one doesn't have to be a musician to appreaciate music. My interest was sparked by [The Frustrated Gardener,](https://frustratedgardener.com/) specifically his garden diaries. You can use the [editor on GitHub](https://github.com/dan1elav/Florapedia/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
