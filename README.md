@@ -7,7 +7,17 @@ I'm very new to gardening. But, one doesn't have to be a musician to appreaciate
 ### My favorites
 ![Image](IMG_4930.jpg)
 
-Personally, flowers get to much credit. They are pretty, but they always overshadow the leaves of plants which can be so unexpectedly cool. For example, eucalyptus leaves are small dainty and cute while the purple velvet plant is bright and fun.  
+Personally, flowers get to much credit. They are pretty, but they always overshadow the leaves of plants which can be so unexpectedly cool. For example, eucalyptus leaves are small dainty and cute while the purple velvet plant is bright and fun. 
+
+
+### My Planter list: Plants I wish to grow
+- Radishes
+- Mint
+- Marigolds
+Slowly, but surely ;)
+
+![Image](IMG_4930.jpg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
