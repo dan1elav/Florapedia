@@ -3,7 +3,6 @@
 I'm very new to gardening. But, one doesn't have to be a musician to appreaciate music. My interest was sparked by [The Frustrated Gardener,](https://frustratedgardener.com/) specifically his garden diaries. Now, I am determined to build up my knowledge on plants to have a garden of my own. 
 
 
-
 ### My favorites
 ![Image](IMG_4929 2.jpg) 
 
